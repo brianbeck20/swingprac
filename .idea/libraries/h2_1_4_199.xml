@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="h2-1.4.199">
     <CLASSES>
-      <root url="jar://C:/dev/h2/h2-1.4.199.jar!/" />
+      <root url="jar://C:/dev/mysql/mysql-connector-java-8.0.15.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
